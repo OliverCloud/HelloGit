@@ -1,0 +1,23 @@
+{
+  "name": "hellogit",
+  "version": "1.0.0",
+  "description": "* ffdf\r * dfdf\r     * dfdf\r         * dfd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uoogie/HelloGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uoogie/HelloGit/issues"
+  },
+  "homepage": "https://github.com/Uoogie/HelloGit#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}
